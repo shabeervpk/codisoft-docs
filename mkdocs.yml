@@ -1,2 +1,3 @@
 site_name: Documentations
-theme: readthedocs
+theme: 
+  name: material
